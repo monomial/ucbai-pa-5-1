@@ -29,4 +29,4 @@ The notebook includes several visualizations such as bar charts that illustrate 
 Further analysis could explore the impact of promotional marketing campaigns and customer service satisfaction on coupon acceptance rates.
 
 ## View Notebook
-You can view the Jupyter notebook directly on GitHub or via this [nbviewer link](link-to-nbviewer-with-notebook).
+You can view the Jupyter notebook [directly on GitHub](coupon_analysis.ipynb) or via this [nbviewer link](https://nbviewer.org/github/monomial/ucbai-pa-5-1/blob/main/coupon_analysis.ipynb).
