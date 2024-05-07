@@ -4,7 +4,13 @@
 This repository contains a Jupyter notebook that explores factors influencing the acceptance of coupons by customers for various types of establishments. The analysis focuses on various characteristics such as the time of day, weather conditions, customer demographics, and their previous behavior patterns.
 
 ## Key Findings for Bar Coupons
-- ** **:
+- **Demographic Insights**: Older demographics (over 25) have a higher likelihood of accepting the bar coupons, which may correlate with their
+higher likelihood of being in the habit of visiting bars.
+- **Economic Factors**: Acceptance rates tended to be higher for higher income levels, suggesting that bar patronage has a higher cost and
+tends to attract a wealthier crowd.
+- **Passenger Factors**: Coupon acceptance decreased when the passenger(s) were kid(s), which correlates with fact that bars tend to not
+be welcoming toward underage people.
+- **Previous Behavior Pattern**: Those who visit bars often are also likely to accept the bar coupon.
 
 ## Key Findings for Coffee House Coupons
 - **Time of Day Impact**: Coupon acceptance rates are higher during morning hours, likely due to customers' preference for coffee in the morning.
@@ -23,7 +29,7 @@ This repository contains a Jupyter notebook that explores factors influencing th
 ## Visualization
 The notebook includes several visualizations such as bar charts that illustrate the relationship between various factors and coupon acceptance rates.
 
-![Sample Visualization](link-to-image-if-available)
+![Sample Visualization](images/bar_coupon_3_conditions.png)
 
 ## Further Research
 Further analysis could explore the impact of promotional marketing campaigns and customer service satisfaction on coupon acceptance rates.
